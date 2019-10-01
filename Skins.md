@@ -1,16 +1,9 @@
-# RyuK super rad main skins compilation
+# - Dark - awesome skins
 
-# [HP Bar](https://i.imgur.com/dh79Bwo.png)
-![](https://i.imgur.com/dh79Bwo.png)
+# most skins i use are listed here, if it isn't, it's because i didn't update yet.
 
-# If a link is down it means that it is being updated, just wait a few minutes. 
-
-# Some of the skins RyuK uses might be private or unfinished and may not be listed.
-
-# In other cases it is not listed, please wait a bit as it most likely isn't uploaded due to the skin being new most of the time.
-
-# [- Delis Except It Is Varvalian](https://mizaruyea.s-ul.eu/5lSwk7ay)
-![](https://osu.ppy.sh/ss/13790768/c414)
+# [+     Rafis with yellow cursor](https://buddha.s-ul.eu/6yYONS18)
+![]https://osu.ppy.sh/ss/13914347/0e08)
 
 # [- 404 ryan edit](http://puu.sh/E0DUe/99b7a31d4a.osk)
 ![](https://osu.ppy.sh/ss/13631335/a8bf)
