@@ -3,7 +3,7 @@
 # most skins i use are listed here, if it isn't, it's because i didn't update yet.
 
 # [+     Rafis with yellow cursor](https://buddha.s-ul.eu/6yYONS18)
-![]https://osu.ppy.sh/ss/13914347/0e08)
+![](https://osu.ppy.sh/ss/13914347/0e08)
 
 # [- 404 ryan edit](http://puu.sh/E0DUe/99b7a31d4a.osk)
 ![](https://osu.ppy.sh/ss/13631335/a8bf)
