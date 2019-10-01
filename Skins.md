@@ -2,7 +2,10 @@
 
 # all the skins i mostly use and/or have made are listed here, if something is missing, it's because i didn't update yet.
 
-# [+     Rafis with yellow cursor](https://buddha.s-ul.eu/6yYONS18)
+# [+ vaxei nomod ver 2. (edit)](https://pipoca.s-ul.eu/NmTPiUno)
+![](https://osu.ppy.sh/ss/13914418/b6aa)
+
+# [+ Rafis with yellow cursor](https://buddha.s-ul.eu/6yYONS18)
 ![](https://osu.ppy.sh/ss/13914347/0e08)
 
 # [spare is legit](https://buddha.s-ul.eu/qcvF5dbx)
@@ -23,7 +26,7 @@
 # [kune259](https://buddha.s-ul.eu/5qvqv4Mj)
 ![](https://osu.ppy.sh/ss/13914390/b933)
 
-# [- owotuna ryan blue](https://buddha.s-ul.eu/INMO069K)
+# [-+owotuna+ryan+edit](https://buddha.s-ul.eu/INMO069K)
 ![](https://osu.ppy.sh/ss/13914403/4ee5)
 
 # [Azerite minimalist rainbow skin](https://buddha.s-ul.eu/Idh1eDg3)
