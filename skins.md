@@ -1,4 +1,3 @@
-# - Dark - awesome skins
 
 
 # all the skins i mostly use and/or have made are listed here
