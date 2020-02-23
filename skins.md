@@ -24,6 +24,9 @@
 # [pedriboy edit](https://buddha.s-ul.eu/Mk4u9mgA)
 ![](https://osu.ppy.sh/ss/13914365/2ffe)
 
+# [morgan but fyre](https://cdn.discordapp.com/attachments/448837091347136513/680980219556921518/morgan_but_fyre.osk)
+![](https://osu.ppy.sh/ss/14524894/fe83)
+
 # [thanks to anyone who made any elements in this skin o](https://buddha.s-ul.eu/H6pOAg6k)
 ![](https://osu.ppy.sh/ss/13914379/4d16)
 
