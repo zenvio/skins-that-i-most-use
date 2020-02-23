@@ -3,8 +3,10 @@
 # all the skins i mostly use and/or have made are listed here
 # if something is missing, it's either because i didn't update yet or it's private.
 
+# [Toke+-+Natsukihina](https://cdn.discordapp.com/attachments/612839196121628685/670758050373566483/Toke_-_Natsukihina.osk)
+![](https://osu.ppy.sh/ss/14524866/72ea)
 
-# [-   spring x tko](https://pipoca.s-ul.eu/EzPqcIUH) / [(alt)](https://pipoca.s-ul.eu/bSOlioWC)
+# [-   spring x tko](https://pipoca.s-ul.eu/EzPqcIUH) / [(pink cursor / hitsounds)](https://pipoca.s-ul.eu/bSOlioWC)
 ![](https://cdn.discordapp.com/attachments/448837091347136513/650938279121780737/screenshot1757.jpg)
 
 # [+ vaxei nomod ver 2. (edit)](https://pipoca.s-ul.eu/NmTPiUno)
