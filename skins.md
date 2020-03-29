@@ -6,6 +6,12 @@
 # [Toke+-+Natsukihina](https://cdn.discordapp.com/attachments/612839196121628685/670758050373566483/Toke_-_Natsukihina.osk)
 ![](https://osu.ppy.sh/ss/14524866/72ea)
 
+# [aireu](https://cdn.discordapp.com/attachments/601218080940621824/692936174959853680/-_Aireu.osk)
+![](https://osu.ppy.sh/ss/14681985/af48)
+
+# [- Lua (Toke Hamster) + DT edit edit](https://cdn.discordapp.com/attachments/601218080940621824/693828812055642132/-_Lua_Toke_Hamster__DT_edit.osk)
+![](https://osu.ppy.sh/ss/14682028/5c3d)
+
 # [-   spring x tko](https://pipoca.s-ul.eu/EzPqcIUH) / [(pink cursor / hitsounds)](https://pipoca.s-ul.eu/bSOlioWC)
 ![](https://cdn.discordapp.com/attachments/448837091347136513/650938279121780737/screenshot1757.jpg)
 
