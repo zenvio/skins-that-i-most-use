@@ -3,6 +3,8 @@
 # all the skins i mostly use and/or have made are listed here
 # if something is missing, it's either because i didn't update yet or it's private.
 
+# *some skins may only work in @2x
+
 
 # [- Lua (Toke Hamster) + DT edit edit](https://cdn.discordapp.com/attachments/601218080940621824/693828812055642132/-_Lua_Toke_Hamster__DT_edit.osk)
 ![](https://osu.ppy.sh/ss/14682028/5c3d)
